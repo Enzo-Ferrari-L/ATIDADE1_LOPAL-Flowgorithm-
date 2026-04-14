@@ -28,10 +28,3 @@ Praticar conceitos fundamentais de programação, como:
 
 * **VisuAlg** → para desenvolvimento dos algoritmos em pseudocódigo
 * **Flowgorithm** → para representação visual em fluxogramas
-
----
-
-Sobre
-
-Esses exercícios são ideais para iniciantes que estão aprendendo lógica de programação e desejam entender como transformar problemas em soluções computacionais.
-
